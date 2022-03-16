@@ -1,6 +1,8 @@
 ## Welcome to wyk's GitHub Pages
 
-[跳转到另一页](greenlight2000.github.io/another)
+[项目1 xxx](/another)
+
+作品预览：
 
 ![这是一个图片](https://th.bing.com/th/id/R.ff90dd0f5be847747751b477de965baa?rik=HnsKXSrfUmdnQQ&riu=http%3a%2f%2fimg.sj33.cn%2fuploads%2f202001%2f105431B17-117.jpg&ehk=aT8BEpHQIjWAlua8DF8mvjt%2f24hZX27B%2bUkUkvWiRck%3d&risl=&pid=ImgRaw&r=0)
 
